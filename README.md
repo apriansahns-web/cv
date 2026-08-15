@@ -1,2 +1,1 @@
-# cv
-data pribadi
+berisi tentang pribadi seseorang
